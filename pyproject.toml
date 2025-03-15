@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pubmed-fetcher"
 version = "0.1.0"
-description = ""
+description = "A CLI tool to fetch research papers from PubMed."
 authors = ["TarunBasediya <tarunbasediya020@gmail.com>"]  # FIXED
 readme = "README.md"
 packages = [{ include = "src" }]  
